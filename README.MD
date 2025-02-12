@@ -33,7 +33,7 @@ docker run -it -p 8600:8080 pengbai/docker-supermario
 ## 4. Accès au jeu
 - **URL** : `http://localhost:8600`
 - **Captures requises** :
-  1. Écran titre ![title](start.png)
+  1. Écran titre ![title](screenshots/start.png)
   2. Niveau 1-1 ![level](levels.png)
   3. Game Over ![gameover](game_over.png)
 
