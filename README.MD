@@ -34,8 +34,8 @@ docker run -it -p 8600:8080 pengbai/docker-supermario
 - **URL** : `http://localhost:8600`
 - **Captures requises** :
   1. Écran titre ![title](screenshots/start.png)
-  2. Niveau 1-1 ![level](levels.png)
-  3. Game Over ![gameover](game_over.png)
+  2. Niveau 1-1 ![level](screenshots/levels.png)
+  3. Game Over ![gameover](screenshots/game_over.png)
 
 ## 5. Gestion des containers
 ### Trouver l'ID (2 méthodes)
